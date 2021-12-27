@@ -26,5 +26,5 @@ source env/bin/activate
 docker-compose up
 ```
 
-- Dans votre navigateur, accédez au site via l'url http://localhost:8000/
+- Dans votre navigateur, accéder au site via l'url http://localhost:8000/
 
