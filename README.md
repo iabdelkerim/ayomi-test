@@ -19,7 +19,6 @@ sur le shell de votre ordinateur, cloner le répertoire:
 ```shell
 git clone https://github.com/iabdelkerim/ayomi-test.git
 cd ayomi-test
-docker-compose up
 ```
 - Utiliser l'environnement virtuel et lancer le conteneur Docker:
 ```shell
