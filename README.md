@@ -10,12 +10,13 @@ Faire un site en suivant les instructions suivantes :
 •  Une base de donnée doit-être incluse.
 •  On utilisera Django, Python et Bootstrap. Vous êtes libre d'utiliser d'autres outils ou Frameworks selon vos préférences.
 •  Nous aimerions le rendu sous Git avec la doc pour faire tout fonctionner
+Vous devrez utiliser Docker pour le containériser (file+ compose).
 
 Fonctionnalité manquante : A l'appui de ce bouton, l'adresse email sera modifiée dans la base de données et **sur la page principale sans rechargement de la page**.
 
 Tout les autres fonctionnent normalement sauf pour la modification du mail où j'ai eu des difficultés à implémenter la solution pour éviter que la page se recharge.
 
-Vous devrez utiliser Docker pour le containériser (file+ compose).
+
 
 - Ouvrir l'application Docker sur votre pc
 
